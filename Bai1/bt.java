@@ -43,5 +43,6 @@ public class bt {
         }
         int kq = chanDong (a);
         System.out.println("-> So lan chan dong la: " + kq);
+        int c = 0;
     }
 }

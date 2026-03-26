@@ -140,8 +140,8 @@ public class bt {
             }else{
                 Node p = head;
                 int vt=1;}
-                while (p!=null && vt <k-1){
-                    p = p.next;vt++;
+                /*while (p!=null && vt <k-1){
+                    p = p.next;vt++;*/
                 }
         }
     }
